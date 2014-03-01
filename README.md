@@ -1,3 +1,3 @@
-Bitlancer Strings PaaS Sample Application
+Bitlancer Strings PaaS Sample App
 =======================
 
